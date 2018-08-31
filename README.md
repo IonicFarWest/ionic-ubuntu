@@ -15,10 +15,10 @@ $ sudo npm install -g ionic cordova
 ```
 ### Java JDK
 ```
-$ sudo add-apt-repository ppa:linuxuprising/java
-$ sudo apt update
-$ sudo apt install oracle-java10-installer
-$ sudo apt install oracle-java10-set-default
+$ sudo apt-get update
+$ sudo apt-get upgrade
+$ sudo apt-get install default-jdk
+$ sudo apt-get install default-jre
 ```
 ### Android SDK
 ```
