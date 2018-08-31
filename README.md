@@ -5,13 +5,13 @@ Instalacion Ionic
 
 ### Getting Node and NPM
 ```
-$ sudo apt install curl
-$ curl -sL https://deb.nodesource.com/setup_8.x | sudo -E bash -
+$ sudo apt update
 $ sudo apt install nodejs
+$ sudo apt install npm
 ```
 ### Ionic CLI and Cordova
 ```
-$ npm install -g ionic cordova
+$ sudo npm install -g ionic cordova
 ```
 ### Java JDK
 ```
